@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Login Me.</string>
+    <string name="welcome">Welcome to your Shopping Application</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Full name</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+
+    <string name="shoppingapplast">Sample</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="get_map">Get Map</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_toList">To Product List</string>
+
+    <!-- String resources related to log in
+    <string name="sign_in_title">Sign In</string>
+    <string name="email_prompt">Email Address</string>
+    <string name="password_prompt">Password</string>
+    <string name="forgot_password_title">Can\'t sign in? <font color='#ff1744'>forgot password?</font></string>
+    <string name="sign_up_link">Don\'t have an account? <font color='#ff1744'>create</font></string>
+-->
+
+    <!-- String resources related to sign up
+    <string name="sign_up_title">Sign Up</string>
+    <string name="create_account_title">Create your Account</string>
+
+    <string name="first_name_prompt">First Name</string>
+    <string name="last_name_prompt">Last Name</string>
+    <string name="email_address_prompt">Email Address</string>
+    <string name="id_number_prompt">ID Number</string>
+    <string name="phone_number_prompt">Phone Number</string>
+    <string name="confirm_password_prompt">Confirm Password</string>
+-->
+
+    <!-- String resources related to menus -->
+    <string name="settings_title">Settings</string>
+    <string name="notifications_title">Notifications</string>
+
+    <!-- Machine IP Address -->
+    <string name="machine_ip_address">192.168.1.15</string>
+    <string name="title_activity_productlist">Product List</string>
+    <string name="title_activity_maps">Map Activity</string>
+    <string name="title_activity_shoplist">Shop List</string>
+    <string name="product_name">Product Name</string>
+    <string name="description">Description</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBSo-uQthIaYd8AWSly7t9dRJma_6y_HM4</string>
+
+
+</resources>
